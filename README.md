@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mmdcdocjon
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning how to develop event-driven system
+- 💞️ I love event-driven systems
+- 🌱 I’m currently exploring how AI can enhance our services
 - 💞️ I’m looking to collaborate on technologies for education
 - 📫 Just send me a message at www.linkedin.com/in/dayao
 
